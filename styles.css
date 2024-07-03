@@ -9,7 +9,7 @@
 img{
 	width: 400px;
 	height: 250px;
-	background-size: cover;
+	object-fit: cover;
 }
 button{
 	padding: 3px ;
